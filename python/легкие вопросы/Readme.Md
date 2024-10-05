@@ -39,7 +39,7 @@
 **Пример входных данных**: `3`  
 **Пример выходных данных**: `14`
 
-**Исходный код**: [sqr_sum_1_n.py](loops/sqr_sum_1_n.py)
+**Исходный код**: [sqr_sum_1_n.py](conditions/sqr_sum_1_n.py)
 
 #### 2.2 print-even-a-b
 
@@ -48,7 +48,7 @@
 **Пример входных данных**: `0 4`  
 **Пример выходных данных**: `0 2 4`
 
-**Исходный код**: [print_even_a_b.py](loops/print_even_a_b.py)
+**Исходный код**: [print_even_a_b.py](conditions/print_even_a_b.py)
 
 #### 2.3 pow-a-b
 
@@ -57,7 +57,7 @@
 **Пример входных данных**: `2 6`  
 **Пример выходных данных**: `64`
 
-**Исходный код**: [pow_a_b.py](loops/pow_a_b.py)
+**Исходный код**: [pow_a_b.py](conditions/pow_a_b.py)
 
 #### 2.4 calc-deposit
 
@@ -66,7 +66,7 @@
 **Пример входных данных**: `1 5 1000`  
 **Пример выходных данных**: `1050.0`
 
-**Исходный код**: [calc_deposit.py](loops/calc_deposit.py)
+**Исходный код**: [calc_deposit.py](conditions/calc_deposit.py)
 
 ---
 
@@ -79,7 +79,7 @@
 **Пример входных данных**: `[1, 2, 3]`  
 **Пример выходных данных**: `1`
 
-**Исходный код**: [min_array.py](arrays/min_array.py)
+**Исходный код**: [min_array.py](conditions/min_array.py)
 
 #### 3.2 Range
 
@@ -88,7 +88,7 @@
 **Пример входных данных**: `5`  
 **Пример выходных данных**: `[1, 2, 3, 4, 5]`
 
-**Исходный код**: [range_array.py](arrays/range_array.py)
+**Исходный код**: [range_array.py](conditions/range_array.py)
 
 #### 3.3 Sum
 
@@ -97,7 +97,7 @@
 **Пример входных данных**: `[1, 2, 3]`  
 **Пример выходных данных**: `6`
 
-**Исходный код**: [sum_array.py](arrays/sum_array.py)
+**Исходный код**: [sum_array.py](conditions/sum_array.py)
 
 #### 3.4 Sort
 
@@ -106,4 +106,4 @@
 **Пример входных данных**: `[3, 2, 1]`  
 **Пример выходных данных**: `[1, 2, 3]`
 
-**Исходный код**: [sort_array.py](arrays/sort_array.py)
+**Исходный код**: [sort_array.py](conditions/sort_array.py)
